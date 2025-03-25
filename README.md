@@ -21,7 +21,6 @@ Shows price, customer ratings, and review count
 
 🔹 3. Save Favorite Products
 Click "Save" to store items in LocalStorage
-
 Saved items are displayed at the bottom
 
 🚀 How to Run?
